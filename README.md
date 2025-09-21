@@ -1,53 +1,66 @@
 # Farm Connect
 
-A platform connecting farmers and consumers directly, streamlining agricultural commerce.
+A platform bridging farmers and consumers through technology.
 
-## Overview
+## 🌱 Overview
 
-Farm Connect is a web application designed to bridge the gap between farmers and consumers, enabling direct trade of agricultural products.
+Farm Connect is an innovative application designed to connect farmers directly with consumers, eliminating intermediaries and ensuring fair pricing. By leveraging modern technology, it aims to streamline the agricultural supply chain, making it more transparent and efficient.
 
-## Features
+## 🚀 Features
 
-- Direct farmer-to-consumer marketplace
-- Real-time product listings
-- Secure payment processing
-- Product verification system
-- User authentication
-- Order tracking
+* Direct Farmer-Consumer Interaction: Facilitates seamless communication between farmers and consumers.
+* Real-Time Updates: Provides live updates on crop availability and pricing.
+* User-Friendly Interface: Designed with simplicity in mind for all user levels.
+* Secure Transactions: Ensures safe and transparent transactions between parties.
 
-## Tech Stack
+## 🛠 Technologies Used
 
-- Frontend: React.js
-- Backend: Node.js
-- Database: PostgreSQL
-- Authentication: Supabase
+* Frontend: React, Tailwind CSS
+* Backend: Node.js, Express
+* Database: PostgreSQL
+* Authentication: Supabase
+* Deployment: Vercel 
 
-## Installation
 
-1. Clone the repository
+## ⚙ Installation
+
+Clone the repository:
+
 ```bash
-git clone https://github.com/Divyansh0109/farm-connect.git
+git clone https://github.com/priyam1502/farm-connect.git
+cd farm-connect
 ```
 
-2. Install dependencies
+Install dependencies:
+
 ```bash
-cd farm-connect
 npm install
 ```
 
-3. Start the development server
+Start the development server:
+
 ```bash
-npm run dev
+npm start
+
 ```
+## 🧪 Running Tests
 
-## Contributing
+To run the test suite:
 
-Pull requests are welcome. For major changes, please open an issue first to discuss proposed changes.
+```bash
+npm test
 
-## License
+```
+## 🤝 Contributing
 
-[MIT](https://choosealicense.com/licenses/mit/)
+We welcome contributions! Please fork the repository, create a new branch, and submit a pull request. Ensure your code adheres to the existing style and includes appropriate tests.
 
-## Contact
+## 📞 Contact
 
-Project Link: [https://github.com/Divyansh0109/farm-connect](https://github.com/Divyansh0109/farm-connect)
+For inquiries or support, reach out to:
+
+* Email: [priyamj1502@gmail.com](mailto:priyamj1502@gmail.com)
+* LinkedIn: [priyam2804](https://www.linkedin.com/in/priyam2804)
+* Email: [divyanshsen0109@gmail.com](mailto:divyanshsen0109@gmail.com)
+* LinkedIn: [divyansh0109](https://www.linkedin.com/in/divyansh0109)
+* Email: [divyanshijain200718@gmail.com](mailto:divyanshijain200718@gmail.com)
