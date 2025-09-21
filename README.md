@@ -27,7 +27,7 @@ Farm Connect is an innovative application designed to connect farmers directly w
 Clone the repository:
 
 ```bash
-git clone https://github.com/priyam1502/farm-connect.git
+git clone https://github.com/Divyansh0109/farm_connect
 cd farm-connect
 ```
 
